@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D:/workSpaceTetsng/clase9/clase9(failed)">
+    <classes>
+      <class name="suitePruebas">
+        <methods>
+          <include name="setUp"/>
+          <include name="comprarProducto"/>
+        </methods>
+      </class> <!-- suitePruebas -->
+    </classes>
+  </test> <!-- D:/workSpaceTetsng/clase9/clase9(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
